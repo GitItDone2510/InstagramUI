@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/pr725/AndroidStudioProjects/Projects/InstagramUI/app/src/main/res/drawable-v24/ic_dotmenu.xml" value="0.22685185185185186" />
+        <entry key="..\:/Users/pr725/AndroidStudioProjects/Projects/InstagramUI/app/src/main/res/drawable-v24/ic_grid.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/pr725/AndroidStudioProjects/Projects/InstagramUI/app/src/main/res/drawable-v24/ic_igtv.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/pr725/AndroidStudioProjects/Projects/InstagramUI/app/src/main/res/drawable-v24/ic_reels.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/pr725/AndroidStudioProjects/Projects/InstagramUI/app/src/main/res/drawable/ic_bell.xml" value="0.22685185185185186" />
+        <entry key="..\:/Users/pr725/AndroidStudioProjects/Projects/InstagramUI/app/src/main/res/drawable/ic_grid.xml" value="0.25833333333333336" />
       </map>
     </option>
   </component>
